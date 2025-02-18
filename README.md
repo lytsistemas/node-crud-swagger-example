@@ -12,7 +12,7 @@ Este proyecto es un servicio RESTful básico para la gestión de usuarios, desar
 
 1. Clona el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/lytsistemas/node-crud-swagger-example.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
@@ -52,7 +52,7 @@ Este proyecto es un servicio RESTful básico para la gestión de usuarios, desar
 
 ![Lista de Usuarios](usuarios.png)
 
-### Detalle de Usuario
+### Servicio
 
 ![Servicio](servicio.png)
 
