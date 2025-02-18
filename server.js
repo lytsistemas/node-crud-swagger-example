@@ -20,12 +20,12 @@ const port = 3000;
 // Configuración de express-jsdoc-swagger
 const options = {
   info: {
-    version: '1.0.0',
+    version: '0.0.0',
     title: 'API de Usuarios',
     description: 'Documentación automática de la API',
     contact: {
-      name: 'Tu Nombre',
-      email: 'tuemail@example.com',
+      name: 'L&T Sistemas',
+      email: 'lytsistemas@gmail.com',
     },
   },
   baseDir: __dirname, // Directorio base donde está tu aplicación
